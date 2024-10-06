@@ -8,3 +8,6 @@ w=a*b*c*d
 
 
 M = x+y+z+w
+
+
+N = x-y+x+M 
